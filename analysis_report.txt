@@ -1,0 +1,20 @@
+
+Analysis Report
+===============
+Period: 2023-01-05 to 2025-12-04
+Total Trades: 211,218
+Unique Traders: 32
+
+Key Findings:
+1. Performance by Sentiment:
+   - Fear: Avg PnL $49.21
+   - Greed: Avg PnL $53.88
+   - Neutral: Avg PnL $34.31
+
+2. Statistical Significance:
+   - Significant difference between sentiment groups (p=0.0023)
+
+Recommendations:
+- Focus on top performers in each sentiment category
+- Analyze strategies of consistent performers
+- Consider sentiment when evaluating trader performance
